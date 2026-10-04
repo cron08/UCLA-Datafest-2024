@@ -12,7 +12,7 @@ Our team analysed student interaction and assessment data from CourseKata with t
 
 The competition began at UCLA in 2011 and is now sponsored by the American Statistical Association, with events hosted by universities across the U.S. and internationally.
 
-The UCLA event is one of the largest undergraduate data science hackathons on the U.S. West Coast, with 400+ participants.
+The UCLA event is the largest undergraduate data science hackathon on the U.S. West Coast, with 400+ participants in 2024.
 
 Official UCLA DataFest results:  
 http://datafest.stat.ucla.edu/past-datafests/results/
