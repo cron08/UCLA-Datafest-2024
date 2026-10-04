@@ -4,9 +4,15 @@
 
 This project investigates how different types of interactive questions are associated with student learning outcomes in online statistics education.
 
-Our team analysed student interaction and assessment data from CourseKata, an online statistics and data science learning platform, with the goal of identifying which question formats appear most effective for improving end-of-chapter performance.
+Our team analysed student interaction and assessment data from CourseKata with the goal of identifying which question formats were most strongly associated with end-of-chapter performance.
 
-The project was completed as part of **ASA DataFest 2024**, where our team was selected as a finalist.
+## Competition Context
+
+**ASA DataFest** is a 48-hour data science hackathon in which undergraduate teams work with a large, real-world dataset and develop an analysis and recommendation under significant time pressure.
+
+The competition began at UCLA in 2011 and is now sponsored by the American Statistical Association, with events hosted by universities across the U.S. and internationally.
+
+The UCLA event is one of the largest undergraduate data science hackathons on the U.S. West Coast, with 400+ participants.
 
 Official UCLA DataFest results:  
 http://datafest.stat.ucla.edu/past-datafests/results/
@@ -70,8 +76,6 @@ The results suggested that the optimal mix of question formats may differ consid
 **ASA DataFest 2024 Finalist**
 
 I served as **Team Lead** for the project.
-
-DataFest is a large-scale data science competition in which teams analyse a complex real-world dataset and develop an actionable recommendation within a limited time period.
 
 Our final presentation focused on:
 
