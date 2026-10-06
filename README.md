@@ -23,7 +23,7 @@ http://datafest.stat.ucla.edu/past-datafests/results/
 
 How should an interactive statistics textbook balance different question types to support stronger learning outcomes?
 
-We focused on four major question formats:
+The four major question formats were:
 
 - Multiple choice
 - Short text
