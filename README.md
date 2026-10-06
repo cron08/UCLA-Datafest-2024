@@ -77,7 +77,7 @@ The results suggested that the optimal mix of question formats may differ consid
 
 I served as **Team Lead** for the project.
 
-Our final presentation focused on:
+Our final presentation (limited to only 2 slides) focused on:
 
 > **The Optimal Question Types for Learning Outcomes**
 
@@ -90,5 +90,3 @@ Our final presentation focused on:
 ├── README.md
 ├── presentation/
 │   └── DataFest_2024_The_Decoders.pdf
-└── figures/
-    └── selected_results.png
