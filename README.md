@@ -85,6 +85,8 @@ Our final presentation (limited to only 2 slides) focused on:
 
 ## Repository Contents
 
+The competition dataset and analysis code are not publicly available due to DataFest data-use restrictions; this repository contains the project overview and final competition presentation.
+
 ```text
 .
 ├── README.md
